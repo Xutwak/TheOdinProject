@@ -1,2 +1,2 @@
 # TheOdinProject
-Form my Odin Project Curriculum
+For my Odin Project Curriculum
